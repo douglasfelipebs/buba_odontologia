@@ -52,18 +52,23 @@ body {
 /* Skip to Content Link */
 .skip-link {
     position: absolute;
-    top: -40px;
-    left: 0;
+    top: -9999px;
+    left: -9999px;
     background: var(--color-dark-gray);
     color: var(--color-white);
     padding: 8px 16px;
     text-decoration: none;
     z-index: 1000;
     border-radius: 0 0 4px 0;
+    opacity: 0;
+    pointer-events: none;
 }
 
 .skip-link:focus {
     top: 0;
+    left: 0;
+    opacity: 1;
+    pointer-events: auto;
 }
 
 /* ============================================
@@ -156,6 +161,7 @@ a:focus {
 .btn-primary:hover {
     background-color: #f5b4cc;
     border-color: #f5b4cc;
+    color: var(--color-dark-gray);
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(247, 198, 217, 0.4);
 }
@@ -660,12 +666,6 @@ a:focus {
     padding: var(--spacing-md);
     border-radius: 8px;
     text-align: center;
-    transition: all var(--transition-base);
-}
-
-.convenio-item:hover {
-    background-color: var(--color-light-pink);
-    transform: translateY(-3px);
 }
 
 .convenio-name {
