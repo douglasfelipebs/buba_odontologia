@@ -1,0 +1,74 @@
+{
+  "depoimentos": [
+    {
+      "paciente": "Dionathan",
+      "texto": "Muito rápida e resolutiva no atendimento, já passou todo o tratamento que será necessário.",
+      "imgUrl": null,
+      "data": "2025-12-02",
+      "estrelas": 5
+    },
+    {
+      "paciente": "Silvane",
+      "texto": "Dra Jessyca foi super atenciosa no atendimento, explicou sobre a minha dentição e prevenção futura.",
+      "imgUrl": null,
+      "data": "2025-12-02",
+      "estrelas": 5
+    },
+    {
+      "paciente": "Pedro",
+      "texto": "Atendimento muito bom. Procedimentos bem justificados e explicados.",
+      "imgUrl": null,
+      "data": "2025-11-27",
+      "estrelas": 5
+    },
+    {
+      "paciente": "Mariana",
+      "texto": "Dra. Jessyca como sempre uma ótima profissional! Eficiente e super atenciosa.",
+      "imgUrl": null,
+      "data": "2025-11-19",
+      "estrelas": 5
+    },
+    {
+      "paciente": "Maria Cristina Martins Gonçalves Giamberardino",
+      "texto": "Minha mãe é idosa e foi atendida com muita paciência",
+      "imgUrl": null,
+      "data": "2025-11-10",
+      "estrelas": 5
+    },
+    {
+      "paciente": "Fernanda",
+      "texto": "Atendimento excelente e informações claras. Voltarei com certeza.",
+      "imgUrl": null,
+      "data": "2025-11-06",
+      "estrelas": 5
+    },
+    {
+      "paciente": "Cláudia de Siqueira",
+      "texto": "Fiz vários tratamentos com a dra Jéssica, sempre muito bem atendida, ela é atenciosa, explica muito bem, tira todas as duvidas em relacao aos procedimentos. Super recomendo!",
+      "imgUrl": null,
+      "data": "2024-07-28",
+      "estrelas": 5
+    },
+    {
+      "paciente": "Eduardo Burmann",
+      "texto": "Atendimento pontual, rápido e objetivo. Explicou detalhadamente sobre o tratamento, mas sempre direta ao ponto. Perfeito para quem tem uma rotina corrida de trabalho e não pode investir horas em atendimento.",
+      "imgUrl": null,
+      "data": "2024-06-06",
+      "estrelas": 5
+    },
+    {
+      "paciente": "Maria Eduarda Migliorini",
+      "texto": "A Dra Jessyca foi muito atenciosa, tirou todas as minhas dúvidas e foi muito cuidadosa ao realizar o procedimento. Uma excelente profissional, recomendo!",
+      "imgUrl": null,
+      "data": "2024-06-04",
+      "estrelas": 5
+    },
+    {
+      "paciente": "Caroline Mara",
+      "texto": "Meu caso era complexo e, pela confiança no serviço da Dra. Jéssica, mesmo morando em outro estado fiz questão de retornar. Atendimento excelente, eficiente e de alta qualidade.",
+      "imgUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUT5Ff9vEo2HA2q7LLxsRGDtZ5w6xMmeFST8srLQaOvawOXpTIGCg=w144-h144-p-rp-mo-br100",
+      "data": "2025-09-07",
+      "estrelas": 5
+    }
+  ]
+}
